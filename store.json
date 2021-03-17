@@ -13,8 +13,9 @@
         "search"
       ],
       "email": "daniel.bruckhaus@orbis.de",
-      "files": [
-        "picklistbrowser.js"
+      "pluginmodule": "picklistbrowser.js",
+      "additionalFiles": [
+
       ]
     }
   ]
