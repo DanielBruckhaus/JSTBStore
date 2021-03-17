@@ -1,7 +1,21 @@
 {
   "plugins": [
     {
-      
+      "name": "Picklist Browser",
+      "id": "ORBIS.JSToolbox.PicklistBrowser",
+      "version": "1.0.0",
+      "description": null,
+      "author": "Daniel Bruckhaus",
+      "keywords": [
+        "picklist",
+        "optionset",
+        "browser",
+        "search"
+      ],
+      "email": "daniel.bruckhaus@orbis.de",
+      "files": [
+        "picklistbrowser.js"
+      ]
     }
   ]
 }
