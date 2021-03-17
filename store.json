@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "name": "Data Export",
+      "id": "JSToolbox.Unmanaged.DataExport",
+      "version": "0.9",
+      "description": null,
+      "author": "Daniel Bruckhaus",
+      "keywords": [
+        "data",
+        "export",
+        "csv",
+        "json",
+        "download"
+      ],
+      "email": "daniel.bruckhaus@orbis.de",
+      "pluginmodule": "dataexport.js",
+      "additionalFiles": []
+    },
+    {
+      "name": "Data Import",
+      "id": "ORBIS.JSToolbox.DataImport",
+      "version": "1.0.3",
+      "description": null,
+      "author": "Daniel Bruckhaus",
+      "keywords": [
+        "data",
+        "import",
+        "csv",
+        "json",
+        "queue"
+      ],
+      "email": "daniel.bruckhaus@orbis.de",
+      "pluginmodule": "dataimport.js",
+      "additionalFiles": []
+    },
+    {
       "name": "Picklist Browser",
       "id": "ORBIS.JSToolbox.PicklistBrowser",
       "version": "1.0.0",
@@ -14,9 +48,7 @@
       ],
       "email": "daniel.bruckhaus@orbis.de",
       "pluginmodule": "picklistbrowser.js",
-      "additionalFiles": [
-
-      ]
+      "additionalFiles": []
     }
   ]
 }
