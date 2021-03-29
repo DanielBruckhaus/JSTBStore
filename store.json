@@ -49,6 +49,17 @@
       "email": "daniel.bruckhaus@orbis.de",
       "pluginmodule": "picklistbrowser.js",
       "additionalFiles": []
+    },
+    {
+      "name": "Configuration Data Backup",
+      "id": "JSToolbox.ORBIS.DataBackup",
+      "version": "0.9.0",
+      "description": "Backup Configuration Data",
+      "author": "Daniel Bruckhaus",
+      "keywords": [],
+      "email": "daniel.bruckhaus@orbis.de",
+      "pluginmodule": "databackup.js",
+      "additionalFiles": []
     }
   ]
 }
